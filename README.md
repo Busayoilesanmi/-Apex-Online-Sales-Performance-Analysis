@@ -377,17 +377,17 @@ Recommendation: Consider digital transformation strategies, such as offering e-b
 #### Data Cleaning
 Cleaning the dataset ensures accuracy and consistency in the analysis.
 
-##### Removing Duplicates:
+#### Removing Duplicates:
 
 •	Used Remove Duplicates in Excel (Data → Remove Duplicates).
 
-##### Handling Missing Values:
+#### Handling Missing Values:
 
 •	Used Find & Replace (Ctrl + H) to replace blank cells with placeholders or interpolated values.
 
 •	Used Go to Special (F5 → Special → Blanks) to identify missing values.
 
-##### Standardizing Text Formatting:
+#### Standardizing Text Formatting:
 
 Applied TRIM(A1) to remove unnecessary spaces.
 
@@ -404,7 +404,7 @@ Transforming data helps in extracting useful insights.
 
 •	Created Pivot Tables for quick summarization.
 
-##### Pivot tables were used to: 
+#### Pivot tables were used to: 
 
 •	Aggregate sales by product category.
 
@@ -415,9 +415,9 @@ Transforming data helps in extracting useful insights.
 ### Data Splitting
 Separating dependent and independent variables for focused analysis.
 
-#### VMSales Revenue as Dependent Variable:
+#### Sales Revenue as Dependent Variable:
+Analyzed using trend analysis and correlation tests.
 
-o	Analyzed using trend analysis and correlation tests.
-•	Independent Variables:
-o	Regions, product categories, and payment method, were analyzed for impact on revenue trends.
+#### Independent Variables:
+Regions, product categories, and payment method, were analyzed for impact on revenue trends.
 
