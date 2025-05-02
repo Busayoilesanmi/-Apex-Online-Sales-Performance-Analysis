@@ -354,39 +354,69 @@ Recommendation: Consider digital transformation strategies, such as offering e-b
 
 •	Possible missing or inconsistent entries that could impact analysis results.
 
-### vmFuture Research
+### Future Research
+
 •	Expanding the dataset to include a full year's data for better trend analysis.
+
 •	Integrating customer demographics and competitor data to enhance insights.
+
 •	Evaluating customer sentiment through product reviews and social media analysis.
-11.  References & Appendices
-References:
+
+## References & Appendices
+
+### References
+
 •	Internal company sales records
+
 •	Excel functions: Pivot Tables, 
+
 •	Industry reports on retail and e-commerce trends
-Appendices
-1.	Data Cleaning
+
+### Appendices
+
+#### Data Cleaning
 Cleaning the dataset ensures accuracy and consistency in the analysis.
-•	Removing Duplicates:
+
+##### Removing Duplicates:
+
 •	Used Remove Duplicates in Excel (Data → Remove Duplicates).
-•	Handling Missing Values:
+
+##### Handling Missing Values:
+
 •	Used Find & Replace (Ctrl + H) to replace blank cells with placeholders or interpolated values.
+
 •	Used Go to Special (F5 → Special → Blanks) to identify missing values.
-•	Standardizing Text Formatting:
+
+##### Standardizing Text Formatting:
+
 Applied TRIM(A1) to remove unnecessary spaces.
+
 •	Used PROPER(A1), UPPER(A1), and LOWER(A1) to standardize capitalization.
-•	Correcting Date Formats:
+
+##### Correcting Date Formats:
+
 •	Applied TEXT (A1, "YYYY-MM-DD") to ensure consistency.
-2.	Data Transformation
+
+### Data Transformation
 Transforming data helps in extracting useful insights.
+
 •	Aggregating Sales Data by Month, Region, and Category
+
 •	Created Pivot Tables for quick summarization.
-•	Pivot tables were used to: 
+
+##### Pivot tables were used to: 
+
 •	Aggregate sales by product category.
+
 •	Compare regional performance.
+
 •	Identify trends over time.
-3.	Data Splitting
+
+### Data Splitting
 Separating dependent and independent variables for focused analysis.
-•	Sales Revenue as Dependent Variable:
+
+#### VMSales Revenue as Dependent Variable:
+
 o	Analyzed using trend analysis and correlation tests.
 •	Independent Variables:
 o	Regions, product categories, and payment method, were analyzed for impact on revenue trends.
