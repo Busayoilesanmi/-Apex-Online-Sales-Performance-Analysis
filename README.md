@@ -267,9 +267,7 @@ Senior management, sales teams, and marketing departments
 
 •	The highest sales month is January, possibly due to post-holiday shopping, promotions, or New Year resolutions. Businesses we benefit from aggressive marketing campaigns and stock optimization during this period.
 
-•	Some high-revenue products, like the Canon EOS R5 Camera, generate significant income despite lower unit sales, suggesting a successful premium pricing strategy. Meanwhile, low-cost, high-volume products like the Hanes
-
-Comfort Soft T-Shirt contribute more to total units sold. Businesses should explore a dual strategy of premium pricing for high-end products and bulk promotions for budget items.
+•	Some high-revenue products, like the Canon EOS R5 Camera, generate significant income despite lower unit sales, suggesting a successful premium pricing strategy. Meanwhile, low-cost, high-volume products like the Hanes Comfort Soft T-Shirt contribute more to total units sold. Businesses should explore a dual strategy of premium pricing for high-end products and bulk promotions for budget items.
 
 •	Books had the lowest revenue, raising questions about customer demand, digital competition, or pricing strategies. This as a declining category, businesses need to reassess pricing, improve marketing, or pivot to e-books and digital content sales.
 
