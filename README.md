@@ -275,3 +275,4 @@ Comfort Soft T-Shirt contribute more to total units sold. Businesses should expl
 
 ## Data Visualizations & Charts
 
+![Dashboard2](https://github.com/user-attachments/assets/77d65d10-a949-462e-a62a-3c253c92d83a)
