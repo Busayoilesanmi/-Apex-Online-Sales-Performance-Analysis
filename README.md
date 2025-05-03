@@ -2,7 +2,7 @@
 
 [Introduction](#Introduction)
 
-[Objective](Objective)
+[Objective](#Objective)
 
 [Story of Data](#StoryofData)
 
