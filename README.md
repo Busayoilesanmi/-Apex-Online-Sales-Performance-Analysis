@@ -16,7 +16,6 @@
 
 [Data Visualizations & Charts](#DataVisualizations&Charts)
 
-
 [Recommendations and Observations](#RecommendationsandObservations)
 
 [Conclusion](#Conclusion)
@@ -275,6 +274,10 @@ Senior management, sales teams, and marketing departments
 
 ![Dashboard2](https://github.com/user-attachments/assets/77d65d10-a949-462e-a62a-3c253c92d83a)
 
+### Link to the Excel documents and Dashboard
+
+Excel Document: https://docs.google.com/spreadsheets/d/1rlQvXwNyWfm2G4bRhCsfsHe9-gQMn6g3/edit?usp=drive_link&ouid=104478848167416604596&rtpof=true&sd=true
+
 ### Chart Explanations
 
 •	Product Category by Revenue: The bar chart shows that Electronics is the highest revenue-generating category, contributing significantly to total sales, while Books generate the least revenue. This suggests that customers prefer purchasing high-value tech products over books, which could be due to increased digital book consumption or lower demand.
@@ -292,6 +295,7 @@ Senior management, sales teams, and marketing departments
 •	Payment Preferences by Product Category: The column chart shows different product categories have varying payment method preferences. For instance, electronics are primarily purchased using credit cards, while categories like fashion and books show a higher proportion of PayPal transactions. Businesses can leverage this insight to offer tailored payment options for each product category.
 
 •	 Purchase Distribution by Region: The clustered bar chart reveals that tech products are more popular in urban areas, while household goods have steady demand in rural regions. This insight can help companies adjust their regional marketing and logistics strategies accordingly.
+
 ## Recommendations and Observations
 
 •	Focus Marketing Efforts in High-Performing Regions: North America generated the highest revenue ($36,844.34).
